@@ -51,9 +51,9 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("BRANDED_WORLD")
-                await self.one.join_chat("BRANDED_PAID_CC")
-                await self.one.join_chat("BRANDRD_BOT")
+                await self.one.join_chat("NEETxdiscussion")
+                await self.one.join_chat("aboutNEETxNOAH)
+                await self.one.join_chat("neetxdoubt")
             except:
                 pass
             assistants.append(1)
